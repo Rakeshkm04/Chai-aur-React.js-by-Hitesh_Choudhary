@@ -1,0 +1,85 @@
+Video => 1 (React.js Roadmap) // React.js is a JavaScript Library.
+----------------xx--------------xx----------------------------------------
+
+1. Why to learn React.js
+=> It's makes easy to manage and build complex frontend. // Complex Frontend means ki ek botton ko click karne pr multiple kaam hon ya ek button ko click krne pr 3-4 jagha pr update ho rhe hon ya bahut sara kaam ho raha hon to ishi ko complex Frontend kehte hai.
+=> // In simple away jab bhi hume complex frontend banane hote hai toh react humara kafi sara kaam easy kar deta hai.
+
+
+Note: Browser ko sirf Html, css and javaScript hi samjh aata hai yeh react samjh mein nhi aati hai.
+
+// Facebook ke ander ek problem thi jiska naam tha Phantom message problem. 
+
+// 
+
+2. Ract.js learning Process.
+=> Some basic Projects in React.js
+=> Background Changer, Todo List, Calculator, GitHub API's etc.
+
+Baki yeh projects kaise kaam kr rahe hai yeh shikhane ke liye hum in depth mein jate hai.
+
+=> Learing Process:
+. Babel, fibre, Virtual DOM, Diffing Algorithm, Hydration. etc.
+
+
+
+=> // Frameworks => Frameworks ke ander rules ka bada dhiyan diya jata hai  jaise kya naming convention hoga file ka ya ishi naam se hi file honi chahiye, ishi folder ke ander hi file save honi chahiye, data ishi tarh se hi fatch hoga etc // Frameworks ke ander rules ka bada dhiyan diya jata hai. 
+DJango, Next.js etc.
+
+
+=> // Library => React ek Library hai jaha pr chizo ko bahut tarike se kiya ja sakta hai. 
+
+
+3. Topics // React ke ander humme kya-kya shikhana chahiye.
+
+a. Core of React (State(variables) or UI manipulation, JSX(yahi JavaScript ke ander hum JSX likhte hai))
+b. Component Reusablity (means ki Kis tarh hum button ko reuse kar sakte hai ek hi bar bana kr ya footer ko kaise use kar sakte hai ya cards ko kaise use kr sakte hai multiple times etc)
+c. Reusing of Components (Props) (Component Reusablity ko shikhane ke saat hi hum Props ko shikhate hai) // ki Components mein kaise hum Props pass kar sakte hai.
+   
+   // Props Kya hai => Properties => Properties in Js is -
+
+   // jab bhi hum JS mein object bante hai na toh usme likhte hai Key or value pair... haan ushi ko props kehte hai.
+
+   Obj{
+    key : value
+   }
+
+c. How to Propogate changes (Hooks).
+
+
+// Basically React banata hai SPA(Single Page Application) yani ki page kabhi reload hi nahi hota hai.
+
+
+
+4. Some Additional Addon to React.
+
+=> Router (React don't have Router) //  
+----------
+Note: jab page hi reload nhi ho raha hai toh hum naye url pr kaise jaye? iske liye Manipulation ka use hota hai .
+Manipulation ke liye hi hum Router ko shikhate hai.
+
+=> Basically Router React ki functionality nahi hai iske liye humme ek additional package install karna padta hai jiska naam hai--React-Router-DOM
+
+=> State Mangement (React don't have State management)
+-------------------
+
+=> Redux (Library), Redux Toolkit, Zustand , Context API. (yeh bhi humme hooks hi deta hai jisse hum state management acche se kar pate hai.).
+------------------- -------------- --------  -------------
+
+
+=> iske bad kuch log Class Based Component bhi shikhate hai. //  legacy code yani bahut purana code.
+
+=> BAAS Apps (Backend as a Service). // Social Media clone, e-commerce app etc.
+
+
+
+After React
+===============
+
+=> React is not a complete solution in most case.
+
+no SEO, browser Render of JS, no Routing // React mein Code acche se generate nhi hota yahi h1 taks etc acche se generate ho pate hai. etc or isse humara jo browser hai ya SEO hai vo code ko itne acche se nahi pad pate hai.
+
+=> Frameworks
+
+Next.js, Gatsby, Remix
